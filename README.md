@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @HendaPaim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <h1>Henda Paim</>
-<!---
-HendaPaim/HendaPaim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ 
+<p>- 👋 Olá, sou Henda Paim</p>
+<p>- 👀 Estou interessado em fullStack
+- 🌱 Atualmente estou aprendendo C#, Asp.Net, SQL
+- 💞️ Estou procurando colaborar em ...
+- 📫 Como chegar até mim hendapaim278@gmail.com
