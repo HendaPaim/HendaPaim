@@ -12,8 +12,8 @@ I'm a full stack developer...
 
 
 <div style="display: inline_block">
- <img height="110em" align="center" alt="Henda Paim GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=onedark"/>
- <img height="110em" align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendaPaim&layout=compact&theme=onedark"/>
+ <img height="150em" align="center" alt="Henda Paim GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=onedark"/>
+ <img height="150em" align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendaPaim&layout=compact&theme=onedark"/>
 </div>
 
 
