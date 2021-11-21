@@ -10,8 +10,11 @@ I'm a full stack developer...
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HendaPaim)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://web.whatsapp.com/931020749)
 
-![Henda Paim GitHub stats](https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=onedark)
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HendaPaim&layout=compact)](https://github.com/HendaPaim)
+
+<div style="display: inline_block">
+ <img height="180em" align="center" alt="Henda Paim GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=onedark"/>
+ <img height="180em" align="center" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendaPaim&layout=compact&theme=onedark"/>
+</div>
 
 
 ## 🛠 Skills
