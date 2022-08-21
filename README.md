@@ -1,7 +1,7 @@
 # Olá, Eu sou Henda Paim! 👋
 
 ## 🚀 Sobre mim / About Me
-I'm a javascript developer...
+I'm a kotlin developer...
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hendapaim.github.io/Portfolio/)
