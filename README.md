@@ -18,7 +18,7 @@ I'm a kotlin developer...
 
 
 ## 🛠 Skills
-<div style="display: inline_block">
+<div style="display: inline_block; marin: 1px 0">
   <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img align="center" alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
