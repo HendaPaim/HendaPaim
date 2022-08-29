@@ -1,7 +1,9 @@
 # Olá, Eu sou Henda Paim! 👋
 
 ## 🚀 Sobre mim / About Me
-I'm a kotlin developer...
+#### I'm a kotlin developer... 
+Tenho conhecimento em HTML, CSS, javaScript. Todavia kotlin é a minha linguagem principal, convido-te a ver os meus projectos maioritarimante usando a linguagem kotlin.
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://hendapaim.github.io/Portfolio/)
