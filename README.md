@@ -85,7 +85,7 @@
   </p>
 
   <p align="center">
-    <img width="48%" height="180em" alt="Henda Paim GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=dark"/>
+    <img width="48%" height="184em" alt="Henda Paim GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HendaPaim&show_icons=true&theme=dark"/>
     <img width="48%" height="180em" width=" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HendaPaim&layout=compact&theme=dark"/>
   </p>
 
