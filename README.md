@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim / About Me
 #### I'm a kotlin developer... 
-Tenho conhecimento em HTML, CSS, javaScript. Todavia kotlin é a minha linguagem principal, convido-te a ver os meus projectos maioritarimante usando a linguagem kotlin.
+Tenho conhecimento em HTML, CSS, javaScript. Todavia kotlin é a minha linguagem principal, convido-te a ver os meus projectos maioritarimante usando a linguagem kotlin e tudo envolve a linguagem. Esteja a vontade para entrar em contacto para qualquer situação.
 
 
 ## 🔗 Links
