@@ -45,7 +45,7 @@
 
 
 <h2 align="center">🛠 Habilidades / Skills</h2> 
-<hr>
+
 <div align="center">
 
   ### 💻 &nbsp;Languages and Tools:
