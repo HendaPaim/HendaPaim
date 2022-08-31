@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mim / About Me
 
-### I'm a kotlin developer...
+### > I'm a kotlin developer...
 
 🎓  Estou atualmente no último ano de graduação estudando Engenharia Electrónica e Telecomunicações na Universidade Agostinho Neto.
 
