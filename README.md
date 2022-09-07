@@ -70,7 +70,7 @@
 <p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hendapaim&theme=dracula" alt="hendapaim" />&nbsp;<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hendapaim&show_icons=true&locale=en&theme=dracula" alt="hendapaim" /></p>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendapaimh&layout=default&theme=dracula" alt="hendapaim" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hendapaim&layout=default&theme=dracula" alt="hendapaim" /></p>
 
 <!-- <p>
 <img src="https://starchart.cc/hendapaim/{repo}.svg" />
