@@ -60,7 +60,7 @@
 
 <h3>🗣️ Lembra-te:</h3>
 
-> **_Uma linha de codigo de cada vez!_**
+> **_Uma linha de código de cada vez!_**
 >
 
 <h2 align="left">🚀 Languages and Tools:</h2>
