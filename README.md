@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
 	<img alt="Henda Paim" src="./header.png">
-</p>
+</p>-->
 
 <h1 align="center">Olá 👋, Eu sou Henda Paim</h1>
 <h3 align="center">Kotlin Developer | Android Developer | Backend Developer</h3>
