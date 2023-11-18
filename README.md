@@ -13,6 +13,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+<!--
 ## ℹ️ Sobre mim / About Me
 
 ### `I'm a kotlin developer...`
@@ -35,7 +37,7 @@
 
 - 🎓 Estou atualmente no último ano de graduação estudando Engenharia Electrónica e Telecomunicações na Universidade Agostinho Neto.
 
-<!-- 🔭 Atualmente estou trabalhando como estagiário do Google Summer of Code na GNOME Organization. -->
+- 🔭 Atualmente estou trabalhando como estagiário do Google Summer of Code na GNOME Organization. 
 
 - 🧠Tenho conhecimento em HTML, CSS, javaScript. Todavia **kotlin** é a minha linguagem principal, convido-te a ver os meus projectos maioritarimante usando a linguagem kotlin e tudo envolve a linguagem.
 
@@ -43,8 +45,9 @@
 
 - 🌱 Estou no caminho certo me especializando em desenvolvimento android mais sobre Design de Sistemas, Kotlin.
 
-- 💬 Sinta-se livre para me contactar para oportunidades de trabalho ou codar lado-a-lado em um projeto.
+- 💬 Sinta-se livre para me contactar para oportunidades de trabalho ou codar lado-a-lado em um projeto. -->
 
+  
 <!-- ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END  -->
