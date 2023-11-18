@@ -3,7 +3,7 @@
 </p>-->
 
 <h1 align="center">Olá 👋, Eu sou Henda Paim</h1>
-<h3 align="center">Kotlin Developer | Android Developer</h3>
+<!--<h3 align="center">Kotlin Developer | Android Developer</h3>-->
 
 <p align="center">
 	<img src="https://komarev.com/ghpvc/?username=hendapaim&style=for-the-badge" />
